@@ -8,3 +8,5 @@
 - Juxtaposition
 
 The code of the generator script is based off my own implementation in Python 5 years ago.
+
+**Project now built with OpenGL and hosted on GitHub Pages: https://sereza7.github.io/DLA-Visualisation-with-Unity/ **
